@@ -1,9 +1,9 @@
-## 👋 Hi, I’m Rolex  
+# 👋 Hi, I’m Durga Prasad
 
 💻 Full Stack Developer | 🤖 Machine Learning Engineer  
 🚀 Building scalable web apps & intelligent ML solutions  
 
-🛠️ Tech Stack:
+## 🛠️ Tech Stack:
 - Frontend: HTML, CSS, JavaScript, React  
 - Backend: Node.js, Express  
 - Database: MongoDB, MySQL  
@@ -24,11 +24,13 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Durgaprasad4289&icon=0&color=0)](https://visitcount.itsvg.in)
 
----
 📫 Connect with me on Linkedin :
 - LinkedIn: [Click Here](https://www.linkedin.com/in/durga-prasad-kota-9a5b65320)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=Durgaprasad4289&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
