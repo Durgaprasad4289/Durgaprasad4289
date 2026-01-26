@@ -18,9 +18,9 @@
 ---
 
 ## 📊 GitHub Stats:
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Durgaprasad4289&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://nirzak-streak-stats.vercel.app/?user=durgaprasad4289&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Durgaprasad4289&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Durgaprasad4289&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
