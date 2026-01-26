@@ -18,13 +18,19 @@
 ---
 
 ## 📊 GitHub Stats:
-<div align="center>
-
-![](https://nirzak-streak-stats.vercel.app/?user=durgaprasad4289&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Durgaprasad4289&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Durgaprasad4289&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=durgaprasad4289&theme=dark" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Durgaprasad4289&layout=compact&theme=dark" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Durgaprasad4289&theme=dracula" />
+    </td>
+  </tr>
+</table>
 
 ---
 ## 🤝 To Connect with Me:
