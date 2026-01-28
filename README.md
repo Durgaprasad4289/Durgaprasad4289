@@ -21,9 +21,6 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=durgaprasad4289&theme=dark" />
-    </td>
-    <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Durgaprasad4289&layout=compact&theme=dark" />
     </td>
     <td>
