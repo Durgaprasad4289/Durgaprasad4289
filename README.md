@@ -68,15 +68,7 @@ I am a **results-driven Full Stack Developer and Machine Learning Engineer** wit
 `Git` `GitHub` `VS Code`  
 `Firebase` `Vercel` `NPM`
 
----
 
-## ⭐ FEATURED RECOGNITION
-
-<div align="center">
-  <a href="https://trendshift.io/repositories/12800" target="_blank">
-    <img src="https://trendshift.io/api/badge/repositories/12800" width="300"/>
-  </a>
-</div>
 
 ---
 
