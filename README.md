@@ -76,7 +76,7 @@ I am a **results-driven Full Stack Developer and Machine Learning Engineer** wit
 
 <div align="center">
 
-<img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=durgaprasad4289&theme=radical" />
+<img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=durgaprasad4289" />
 
 
 </div>
