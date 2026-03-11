@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Durga Prasad  
-### Full Stack Developer • Machine Learning Engineer
+### Python Full Stack Developer • Machine Learning Engineer
 
 <p align="center">
   <b>Building scalable web applications</b> and <b>intelligent ML systems</b><br/>
@@ -18,7 +18,7 @@
 
 ## 🚀 ABOUT ME 
 
-I am a **results-driven Full Stack Developer and Machine Learning Engineer** with hands-on experience building **end-to-end web applications** and **data-driven ML solutions**.
+I am a **results-driven Python Full Stack Developer and Machine Learning Engineer** with hands-on experience building **end-to-end web applications** and **data-driven ML solutions**.
 
 ### I focus on:
 - Writing clean, maintainable, production-ready code  
