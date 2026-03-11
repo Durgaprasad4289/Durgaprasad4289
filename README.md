@@ -54,7 +54,7 @@ I am a **results-driven Python Full Stack Developer and Machine Learning Enginee
 `HTML` `CSS` `JavaScript` `React` `Next.js`
 
 ### Backend
-`Node.js` `Express` `NestJS` `Django` `FastAPI`
+ `Django` `FastAPI`
 
 ### Databases
 `MongoDB` `MySQL` `PostgreSQL`
@@ -65,7 +65,7 @@ I am a **results-driven Python Full Stack Developer and Machine Learning Enginee
 `Matplotlib` `Plotly`
 
 ### Tools & Platforms
-`Git` `GitHub` `VS Code`  
+`Git` `GitHub` `VS Code`  `Jupyter NotePad`
 `Firebase` `Vercel` `NPM`
 
 
@@ -100,7 +100,7 @@ I am a **results-driven Python Full Stack Developer and Machine Learning Enginee
 ### Open to:
 - Internships  
 - Entry-level / Junior roles  
-- Full-Stack & ML opportunities  
+- Python Full-Stack & ML opportunities  
 
 
 
