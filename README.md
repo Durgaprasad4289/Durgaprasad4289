@@ -1,6 +1,9 @@
 <div align="center">
   
-# Durga Prasad 
+<h1 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> I'm Durgaprasad
+</h1>
+---
   
 ### Python Full Stack Developer • Machine Learning Engineer
 
@@ -53,7 +56,7 @@ I am a **results-driven Python Full Stack Developer and Machine Learning Enginee
 ## 🛠️ TECH STACK (Industry-Relevant)
 
 ### Frontend
-`HTML` `CSS` `JavaScript` `React` `Next.js`
+`HTML` `CSS` `JavaScript` `React`
 
 ### Backend
  `Django` `FastAPI`
@@ -68,7 +71,7 @@ I am a **results-driven Python Full Stack Developer and Machine Learning Enginee
 
 ### Tools & Platforms
 `Git` `GitHub` `VS Code`  `Jupyter NotePad`
-`Firebase` `Vercel` `NPM`
+`Firebase` `Vercel` `NPM` `SupaBase`
 
 
 
