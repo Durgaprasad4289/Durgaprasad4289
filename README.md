@@ -13,7 +13,7 @@
 </p>
 
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=cyan&center=true&vCenter=true&width=600&lines=Python+Full+Stack+Developer;Machine+Learning+Engineer;Building+things+that+actually+ship.;UI+%E2%86%92+API+%E2%86%92+Database+%E2%86%92+Model" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=black&center=true&vCenter=true&width=600&lines=Python+Full+Stack+Developer;Machine+Learning+Engineer;Building+things+that+actually+ship.;UI+%E2%86%92+API+%E2%86%92+Database+%E2%86%92+Model" alt="Typing SVG" />
 
 
 <br/>
