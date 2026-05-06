@@ -138,19 +138,25 @@ EDA, visualization, predictive modeling. Translating messy data into actionable 
 
 <img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=durgaprasad4289" />
 <!-- GitHub Stats -->
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=durgaprasad4289&show_icons=true&theme=radical)
 
 <!-- Top Languages -->
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=durgaprasad4289&layout=compact&theme=radical)
 
 <!-- GitHub Streak -->
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=durgaprasad4289&theme=radical)
 
 <!-- Activity Graph -->
+
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=durgaprasad4289&theme=react-dark)
 
 <!-- Profile Trophy -->
+
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=durgaprasad4289&theme=radical)
+
 
 </div>
 
