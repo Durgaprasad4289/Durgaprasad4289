@@ -136,25 +136,26 @@ EDA, visualization, predictive modeling. Translating messy data into actionable 
 
 <div align="center">
 
-<img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=durgaprasad4289" />
-<!-- GitHub Stats -->
+## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=durgaprasad4289&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=durgaprasad4289&show_icons=true&cache_seconds=1800)
 
-<!-- Top Languages -->
+## Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=durgaprasad4289&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=durgaprasad4289&layout=compact&cache_seconds=1800)
 
-<!-- GitHub Streak -->
+## GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=durgaprasad4289&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=durgaprasad4289)
 
 <!-- Activity Graph -->
+## GitHub Activity Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=durgaprasad4289&theme=react-dark)
 
 <!-- Profile Trophy -->
 
+## GitHub Trophy
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=durgaprasad4289&theme=radical)
 
 
