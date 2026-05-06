@@ -155,8 +155,8 @@ EDA, visualization, predictive modeling. Translating messy data into actionable 
 
 <!-- Profile Trophy -->
 
-## GitHub Trophy
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=durgaprasad4289&theme=radical)
+<!-- ## GitHub Trophy 
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=durgaprasad4289&theme=radical) -->
 
 
 </div>
