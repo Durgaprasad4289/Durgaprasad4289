@@ -138,14 +138,6 @@ EDA, visualization, predictive modeling. Translating messy data into actionable 
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=durgaprasad4289&show_icons=true&cache_seconds=1800)
-
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=durgaprasad4289&layout=compact&cache_seconds=1800)
-
-## GitHub Streak
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=durgaprasad4289)
 
 <!-- Activity Graph -->
