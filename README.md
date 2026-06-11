@@ -140,12 +140,12 @@ EDA, visualization, predictive modeling. Translating messy data into actionable 
 
 ## GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=durgaprasad4289)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=durgaprasadcodes)
 
 <!-- Activity Graph -->
 ## GitHub Activity Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=durgaprasad4289&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=durgaprasadcodes&theme=react-dark)
 
 <!-- Profile Trophy -->
 
@@ -168,8 +168,8 @@ EDA, visualization, predictive modeling. Translating messy data into actionable 
 
 ## 🤝 LET’S CONNECT
 
-- [ **🔥LinkedIn**](https://www.linkedin.com/in/durga-prasad-kota-9a5b65320  )
-- [ **📩Email** ](durgaprasad04289@gmail.com  )
+- [ **🔥LinkedIn**](www.linkedin.com/in/durgaprasadkota)
+- [ **📩Email** ](durgaprasad04289@gmail.com )
 
 ### Open to:
 - Internships  
