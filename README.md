@@ -1,7 +1,8 @@
 <div align="center">
   
 <h1 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> I'm Durgaprasad
+  
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=250&color=0:7F00FF,50:A855F7,100:38BDF8&text=DURGA%20PRASAD%20KOTA&fontColor=000000&fontSize=45&animation=fadeIn"/>
 </h1>
 
   
@@ -11,7 +12,6 @@
   <b>Building scalable web applications</b> and <b>intelligent ML systems</b><br/>
   with clean architecture, performance focus, and real-world impact.
 </p>
-
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=yellow&center=true&vCenter=true&width=600&lines=Python+Full+Stack+Developer;Machine+Learning+Engineer;Building+things+that+actually+ship.;UI+%E2%86%92+API+%E2%86%92+Database+%E2%86%92+Model" alt="Typing SVG" />
 
@@ -31,6 +31,12 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
 </div>
 
+<p align='center'>
+  
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,django,fastapi,postgres,mysql,supabase,git,github,vscode,vercel,docker"/>
+  
+</p>
+
 </div>
 
 
@@ -48,6 +54,9 @@ I focus on creating **scalable, clean, and production-ready systems** — from r
 - ⚙️ Experienced in **REST APIs, database design, and optimization**
 - 🤖 Skilled in **ML pipelines, data analysis, and model building**
 - 🚀 Interested in building **real-world impactful projects**
+
+<p align="center">
+</p>
 
 📈 Currently improving:
 - Advanced React & frontend performance  
@@ -138,19 +147,34 @@ EDA, visualization, predictive modeling. Translating messy data into actionable 
 
 <div align="center">
 
-## GitHub Stats
+## My GitHub Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=durgaprasadcodes)
 
 <!-- Activity Graph -->
-## GitHub Activity Graph
+## My GitHub Activity Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=durgaprasadcodes&theme=react-dark)
 
-<!-- Profile Trophy -->
+## My Githuh History
 
-<!-- ## GitHub Trophy 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=durgaprasad4289&theme=radical) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=durgaprasadcodes&amp;theme=tokyonight"/>
+
+## Most Languages Used By Me
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=durgaprasadcodes&theme=tokyonight"/>
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=durgaprasadcodes&theme=tokyonight"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 
 </div>
@@ -164,20 +188,32 @@ EDA, visualization, predictive modeling. Translating messy data into actionable 
 - Applied Machine Learning projects  
 - Interview-ready DSA & problem solving  
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
 ---
 
-## 🤝 LET’S CONNECT
 
-- [ **🔥LinkedIn**](www.linkedin.com/in/durgaprasadkota)
-- [ **📩Email** ](durgaprasad04289@gmail.com )
 
 ### Open to:
-- Internships  
+- Open for Internships  
 - Entry-level / Junior roles  
 - Python Full-Stack & ML opportunities  
 
+<div align='center'>
 
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-black?style=for-the-badge&logo=vercel&logoColor=white)](https://durgaprasadcodes.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white(https://www.linkedin.com/in/durgaprasadkota)
+[![GitHub](https://img.shields.io/badge/⭐%20GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/durgaprasadcodes)
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=180&amp;section=footer&amp;color=0:38BDF8,50:A855F7,100:7F00FF"/>
+
+</div>
+
