@@ -206,7 +206,7 @@ EDA, visualization, predictive modeling. Translating messy data into actionable 
 <div align='center'>
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-black?style=for-the-badge&logo=vercel&logoColor=white)](https://durgaprasadcodes.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white(https://www.linkedin.com/in/durgaprasadkota)
+[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://linkedin.com/in/durgaprasadkota)
 [![GitHub](https://img.shields.io/badge/⭐%20GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/durgaprasadcodes)
 
 <div align="center">
